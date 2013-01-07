@@ -57,5 +57,5 @@ EOT
     offset += diff
   end
 
-  vals
+  vals.sort
 end
